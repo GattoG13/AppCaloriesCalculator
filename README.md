@@ -1,5 +1,10 @@
-Aplicacion desarrollada con JS, ION Framework, HTML y CSS para el calculo de calorias de un Usuario en donde el usuario podra registrarse o loguearse pasando por diferentes controles de seguridad.
-Registrar una comida ingresada desde un combo desplegable dinamico ingresando la cantidad y las fechas de ingesta pasando por controles de seguridad.
-Listar el/los registros de comida ingresados anteriormente y filtrar dichas ingestas dentro de dos fechas comprendidas.
-Ver su ubicacion en un mapa real y la de los paises con los usuarios ingresados anteriormente en un input tipo texto.
-Desarrollada en un apk de Android con completa aplicacion en navegadores web
+Calorie Tracker Application
+Developed using JavaScript, ION Framework, HTML, and CSS, this application allows users to calculate their daily calorie intake. Users can register or log in with proper security validations. Once logged in, users can:
+
+Register a meal by selecting an item from a dynamic dropdown menu, entering the quantity and the date of consumption, with input validation.
+
+View and filter previously recorded meals within a selected date range.
+
+See their current location on a live map, as well as the locations of users from other countries via a searchable text input.
+
+The application was deployed as an Android APK and is also fully functional in web browsers.
